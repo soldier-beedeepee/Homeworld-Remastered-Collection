@@ -198,4 +198,4 @@ This repository serves as the official landing page for Homeworld Remastered Col
 **Get the most recent version of Homeworld Remastered Collection today!**
 
 ---
-**Last updated:** 2026-11-13 21:18:59 UTC
+**Last updated:** 2026-11-14 02:05:47 UTC
